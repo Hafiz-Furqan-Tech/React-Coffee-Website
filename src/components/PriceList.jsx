@@ -1,4 +1,4 @@
-import MenuIcon from "../assets/MenuIcon.png";
+import MenuIcon from "../assets/Menuicon.png";
 import Product from "./Product";
 
 const PriceList = () => {

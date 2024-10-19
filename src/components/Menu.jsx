@@ -1,5 +1,5 @@
 import { useLocation } from "react-router-dom";
-import MenuIcon from "../assets/MenuIcon.png";
+import MenuIcon from "../assets/Menuicon.png";
 import MenuCard from "./MenuCard";
 
 const Menu = () => {

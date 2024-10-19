@@ -1,4 +1,4 @@
-import MenuIcon from "../assets/MenuIcon.png";
+import MenuIcon from "../assets/Menuicon.png";
 import bg from "../assets/Image.png";
 import { useLocation } from "react-router-dom";
 

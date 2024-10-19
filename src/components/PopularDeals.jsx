@@ -1,4 +1,4 @@
-import MenuIcon from "../assets/MenuIcon.png";
+import MenuIcon from "../assets/Menuicon.png";
 import img4 from "../assets/Image-4.png";
 import img5 from "../assets/Image-5.png";
 
