@@ -1,5 +1,5 @@
 import MenuIcon from "../assets/MenuIcon.png";
-import Chef from "./chef";
+import Chef from "./Chef";
 
 const Chefs = () => {
   return (
