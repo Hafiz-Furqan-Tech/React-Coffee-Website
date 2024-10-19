@@ -1,6 +1,6 @@
 import img from "../assets/hero1.png";
 import since from "../assets/Since.png";
-import since2 from "../assets/Since (2).png";
+import since2 from "../assets/since2.png";
 
 const Hero = () => {
   return (
