@@ -25,7 +25,7 @@ const Footer = () => {
           <MdEmail />
         </div>
         <p className="text-center font-semibold text-lg text-white pb-10">
-          204 All Rights Reserved by Caffine Corner{" "}
+          2024 All Rights Reserved by Caffine Corner{" "}
         </p>
       </div>
     </section>
