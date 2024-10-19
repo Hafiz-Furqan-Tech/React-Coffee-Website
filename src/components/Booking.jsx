@@ -1,5 +1,5 @@
 import { useLocation } from "react-router-dom";
-import MenuIcon from "../assets/MenuIcon.png";
+import Menuicon from "../assets/Menuicon.png";
 import bg_2 from "../assets/bg-2.png";
 
 const Booking = () => {
@@ -17,7 +17,7 @@ const Booking = () => {
             <div className="bg-[#F3EFE6] w-[85%] flex flex-col items-center justify-center xl:w-[90%]">
               <div className="flex pt-4">
                 <img
-                  src={MenuIcon}
+                  src={Menuicon}
                   alt="menu"
                   className="size-14  object-contain"
                 />
@@ -25,7 +25,7 @@ const Booking = () => {
                   Book Table
                 </h1>
                 <img
-                  src={MenuIcon}
+                  src={Menuicon}
                   alt="menu"
                   className="size-14  object-contain"
                 />

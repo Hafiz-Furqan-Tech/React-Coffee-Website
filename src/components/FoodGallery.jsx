@@ -1,4 +1,4 @@
-import MenuIcon from "../assets/Menuicon.png";
+import Menuicon from "../assets/Menuicon.png";
 import anim1 from "../assets/anim-1.png";
 import anim2 from "../assets/anim-2.png";
 import anim3 from "../assets/anim-3.png";
@@ -10,11 +10,11 @@ const FoodGallery = () => {
   return (
     <section className="w-full flex items-center flex-col justify-center gap-8 pb-20">
       <div className="flex items-center justify-center gap-2">
-        <img src={MenuIcon} alt="menu" className="w-16 h-16 object-contain" />
+        <img src={Menuicon} alt="menu" className="w-16 h-16 object-contain" />
         <h1 className="text-3xl font-bold text-center text-white lg:text-4xl xl:text-6xl">
           Food Gallery
         </h1>
-        <img src={MenuIcon} alt="menu" className="w-16 h-16 object-contain" />
+        <img src={Menuicon} alt="menu" className="w-16 h-16 object-contain" />
       </div>
       <div className="overflow-hidden w-full">
         <div

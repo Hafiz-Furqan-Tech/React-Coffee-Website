@@ -1,4 +1,4 @@
-import MenuIcon from "../assets/Menuicon.png";
+import Menuicon from "../assets/Menuicon.png";
 import img4 from "../assets/Image-4.png";
 import img5 from "../assets/Image-5.png";
 
@@ -6,11 +6,11 @@ const PopularDeals = () => {
   return (
     <section className="w-full flex items-center flex-col justify-center gap-8">
       <div className="flex">
-        <img src={MenuIcon} alt="menu" className="size-16  object-contain" />
+        <img src={Menuicon} alt="menu" className="size-16  object-contain" />
         <h1 className="text-3xl font-bold text-center text-white lg:text-4xl xl:text-6xl">
           Popular Deals
         </h1>
-        <img src={MenuIcon} alt="menu" className="size-16  object-contain" />
+        <img src={Menuicon} alt="menu" className="size-16  object-contain" />
       </div>
 
       <div className=" flex items-center justify-center flex-col w-full my-14 px-4 gap-6 lg:flex-row">

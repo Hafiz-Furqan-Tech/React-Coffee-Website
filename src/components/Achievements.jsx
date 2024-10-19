@@ -1,5 +1,5 @@
-import MenuIcon from "../assets/Menuicon.png";
-import bg from "../assets/Image.png";
+import Menuicon from "../assets/Menuicon.png";
+import bg from "../assets/image.png";
 import { useLocation } from "react-router-dom";
 
 const Achievements = () => {
@@ -13,7 +13,7 @@ const Achievements = () => {
       <div className=" flex items-center justify-center flex-col w-full my-14 px-4 gap-6">
         <div className="flex  relative items-center justify-center pt-4  md:px-16">
           <img
-            src={MenuIcon}
+            src={Menuicon}
             alt="menu"
             className="size-14  object-contain absolute top-0 left-0"
           />
@@ -21,7 +21,7 @@ const Achievements = () => {
             OUR ACHIEVEMENTS
           </h1>
           <img
-            src={MenuIcon}
+            src={Menuicon}
             alt="menu"
             className="size-14  object-contain absolute top-0 right-0"
           />
