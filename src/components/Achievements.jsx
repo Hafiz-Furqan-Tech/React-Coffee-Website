@@ -17,7 +17,7 @@ const Achievements = () => {
             alt="menu"
             className="size-14  object-contain absolute top-0 left-0"
           />
-          <h1 className="text-3xl font-bold text-center text-slate-100 lg:text-4xl xl:text-6xl">
+          <h1 className="text-3xl px-3 font-bold text-center text-slate-100 lg:text-4xl xl:text-6xl">
             OUR ACHIEVEMENTS
           </h1>
           <img
